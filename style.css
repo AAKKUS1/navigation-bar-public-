@@ -1,0 +1,72 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: rgba(219, 215, 215, 0.774);
+	font-size: 25px;
+}
+
+.navigation {
+	display: flex;
+	width: fit-content;
+	flex-direction: column;
+	justify-content: space-around;
+	margin-left: 70px;
+	background-color: rgba(203, 57, 233, 0.479);
+	height: 100vh;
+	border-radius: 30px 0 0 0px;
+	padding: 0 24px;
+}
+.icontop {
+	background-color: white;
+	border-radius: 50px;
+	width: 70px;
+	height: 70px;
+	background-image: url(assets/14628169-icone-croix-style-simple-vectoriel-removebg-preview.png);
+}
+.icon2 {
+	width: 70px;
+	height: 70px;
+}
+.icon3 {
+	width: 70px;
+	height: 70px;
+}
+.icon4 {
+	width: 70px;
+	height: 70px;
+}
+.icon5 {
+	width: 70px;
+	height: 70px;
+}
+.txtbl {
+	background-color: white;
+	padding: 50px 0 0 30px;
+	width: 25%;
+	border-radius: 0px 30px 0px 0px;
+}
+.flex1 {
+	display: flex;
+	flex-direction: row;
+}
+button {
+	padding: 10px 15px;
+}
+.dollar {
+	width: 10%;
+}
+
+.imtxt {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	display: flex;
+	align-items: center;
+}
+.imgtxt {
+	margin-top: 50px;
+	display: flex;
+	align-items: center;
+}
+h1 {
+	margin-bottom: 100px;
+}
